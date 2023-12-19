@@ -1,0 +1,85 @@
+[
+    { 
+        "name": "Martin Brodeur", 
+        "gamesPlayed": 1266,
+        "seasons": 22, 
+        "wins": 691,
+        "loses": 397,
+        "goalsAgainst": 2781,
+        "shotsAgainst": 31709,
+        "timeOnIce": 74438
+
+    },
+    
+    { 
+        "name": "Patrick Roy", 
+        "gamesPlayed": 1029,
+        "seasons": 19, 
+        "wins": 551,
+        "loses": 315,
+        "goalsAgainst": 2546,
+        "shotsAgainst": 25800,
+        "timeOnIce": 60214
+
+    },
+
+    { 
+        "name": "Marc-Andre Fleury" , 
+        "gamesPlayed": 996,
+        "seasons": 20, 
+        "wins": 548,
+        "loses": 320,
+        "goalsAgainst": 2490,
+        "shotsAgainst": 28412,
+        "timeOnIce": 57701
+
+    },
+
+    { 
+        "name": "Roberto Luongo", 
+        "gamesPlayed": 1044,
+        "seasons": 19, 
+        "wins": 489,
+        "loses": 392,
+        "goalsAgainst": 2515,
+        "shotsAgainst": 28409,
+        "timeOnIce": 59879
+
+    },
+
+    { 
+        "name": "Ed Belfour", 
+        "gamesPlayed": 963,
+        "seasons": 17, 
+        "wins": 484,
+        "loses": 320,
+        "goalsAgainst": 2317,
+        "shotsAgainst": 24750,
+        "timeOnIce": 55695
+
+    },
+
+    { 
+        "name": "Curtis Joseph", 
+        "gamesPlayed": 943,
+        "seasons": 19, 
+        "wins": 459,
+        "loses": 320,
+        "goalsAgainst": 2516,
+        "shotsAgainst": 26759,
+        "timeOnIce": 54054
+
+    },
+
+    { 
+        "name": "Carey Price", 
+        "gamesPlayed": 712,
+        "seasons": 15, 
+        "wins": 361,
+        "loses": 261,
+        "goalsAgainst": 1755,
+        "shotsAgainst": 21079,
+        "timeOnIce": 42005
+
+    }
+]
